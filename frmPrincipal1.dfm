@@ -44,9 +44,8 @@ object frmPrincipal: TfrmPrincipal
   object lbSenha: TLabel
     Left = 190
     Top = 96
-    Width = 345
+    Width = 30
     Height = 163
-    Caption = 'A0003'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -133
