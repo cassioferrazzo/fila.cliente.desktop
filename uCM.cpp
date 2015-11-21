@@ -19,13 +19,13 @@ __fastcall TCM::TCM(TComponent* Owner)
 
 __fastcall TCM::~TCM()
 {
-	delete FServerMethods1Client;
+	delete FSMClient;
 }
 
-TServerMethods1Client* TCM::GetServerMethods1Client(void)
+TSMClient* TCM::GetSMClient(void)
 {
-	if (FServerMethods1Client == NULL)
-		FServerMethods1Client= new TServerMethods1Client(DSRestConnection1, FInstanceOwner);
-	return FServerMethods1Client;
+	if (FSMClient == NULL)
+		FSMClient= new TSMClient(DSRestConnection1, FInstanceOwner);
+	return FSMClient;
 };
 

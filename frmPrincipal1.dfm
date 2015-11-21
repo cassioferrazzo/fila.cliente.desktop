@@ -68,7 +68,7 @@ object frmPrincipal: TfrmPrincipal
     Width = 40
     Height = 21
     TabOrder = 1
-    Text = '8080'
+    Text = '50000'
     OnExit = edPortaExit
   end
   object btnChamar: TButton

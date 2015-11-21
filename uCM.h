@@ -14,13 +14,13 @@ __published:	// IDE-managed Components
 	TDSRestConnection *DSRestConnection1;
 private:	// User declarations
 	bool FInstanceOwner;
-	TServerMethods1Client* FServerMethods1Client;
-	TServerMethods1Client* GetServerMethods1Client(void);
+	TSMClient* FSMClient;
+	TSMClient* GetSMClient(void);
 public:		// User declarations
 	__fastcall TCM(TComponent* Owner);
 	__fastcall ~TCM();
 	__property bool InstanceOwner = {read=FInstanceOwner, write=FInstanceOwner};
-	__property TServerMethods1Client* ServerMethods1Client = {read=GetServerMethods1Client, write=FServerMethods1Client};
+	__property TSMClient* SMClient = {read=GetSMClient, write=FSMClient};
 };
 //---------------------------------------------------------------------------
 extern PACKAGE TCM *CM;

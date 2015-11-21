@@ -30,13 +30,13 @@ void __fastcall TfrmPrincipal::edPortaExit(TObject *Sender) {
 // ---------------------------------------------------------------------------
 void __fastcall TfrmPrincipal::btnChamarClick(TObject *Sender) {
 
-	senha->fromJSON(CM->ServerMethods1Client->chamarProximaSenha());
+	senha->fromJSON(CM->SMClient->chamarProximaSenha());
 	lbSenha->Caption = senha->codigo;
 }
 
 // ---------------------------------------------------------------------------
 void __fastcall TfrmPrincipal::btnFinalizarClick(TObject *Sender) {
 
-	CM->ServerMethods1Client->finalizarAtendimento(senha->toJSON());
+	CM->SMClient->finalizarAtendimento(senha->toJSON());
 }
 // ---------------------------------------------------------------------------

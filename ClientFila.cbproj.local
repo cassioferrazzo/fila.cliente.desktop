@@ -1,22 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2015/11/08 21:54:43.000.950,=C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>2015/11/08 21:54:43.000.938,=C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2015/11/08 21:55:23.000.082,C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\ProjetosC\ClientFila\frmPrincipal1.h</Transaction>
-    <Transaction>2015/11/08 21:55:23.000.082,C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\ProjetosC\ClientFila\frmPrincipal1.cpp</Transaction>
-    <Transaction>2015/11/08 21:55:23.000.082,C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\ProjetosC\ClientFila\frmPrincipal1.dfm</Transaction>
-    <Transaction>2015/11/08 21:55:33.000.538,C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\ProjetosC\ClientFila\ClientFilaPCH1.h</Transaction>
-    <Transaction>2015/11/08 21:55:42.000.117,C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\ProjetosC\ClientFila\ClientFila.cbproj</Transaction>
+    <Transaction>2015/11/08 21:54:43.000.950,=C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/11/08 21:55:23.000.082,D:\ProjetosC\ClientFila\frmPrincipal1.h=C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2015/11/08 21:55:23.000.082,D:\ProjetosC\ClientFila\frmPrincipal1.dfm=C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/11/08 21:55:23.000.082,D:\ProjetosC\ClientFila\frmPrincipal1.cpp=C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/11/08 21:55:33.000.538,D:\ProjetosC\ClientFila\ClientFilaPCH1.h=C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/11/08 21:55:42.000.117,D:\ProjetosC\ClientFila\ClientFila.cbproj=C:\Users\Cassio\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
     <Transaction>2015/11/08 21:56:36.000.638,=D:\ProjetosC\ClientFila\ClientClassesUnit1.cpp</Transaction>
     <Transaction>2015/11/08 21:56:37.000.001,=D:\ProjetosC\ClientFila\ClientModuleUnit1.cpp</Transaction>
-    <Transaction>2015/11/08 22:08:36.000.381,D:\ProjetosC\ClientFila\ClientClassesUnit1.h=D:\ProjetosC\ClientFila\uCC.h</Transaction>
-    <Transaction>2015/11/08 22:08:36.000.381,D:\ProjetosC\ClientFila\ClientClassesUnit1.cpp=D:\ProjetosC\ClientFila\uCC.cpp</Transaction>
-    <Transaction>2015/11/08 22:08:44.000.093,D:\ProjetosC\ClientFila\ClientModuleUnit1.h=D:\ProjetosC\ClientFila\uCM.h</Transaction>
-    <Transaction>2015/11/08 22:08:44.000.093,D:\ProjetosC\ClientFila\ClientModuleUnit1.dfm=D:\ProjetosC\ClientFila\uCM.dfm</Transaction>
-    <Transaction>2015/11/08 22:08:44.000.093,D:\ProjetosC\ClientFila\ClientModuleUnit1.cpp=D:\ProjetosC\ClientFila\uCM.cpp</Transaction>
-    <Transaction>2015/11/08 22:12:55.000.274,=D:\ProjetosC\projetoTeste\model\TListaGenerica1.cpp</Transaction>
+    <Transaction>2015/11/08 22:08:36.000.381,D:\ProjetosC\ClientFila\uCC.h=D:\ProjetosC\ClientFila\ClientClassesUnit1.h</Transaction>
+    <Transaction>2015/11/08 22:08:36.000.381,D:\ProjetosC\ClientFila\uCC.cpp=D:\ProjetosC\ClientFila\ClientClassesUnit1.cpp</Transaction>
+    <Transaction>2015/11/08 22:08:44.000.093,D:\ProjetosC\ClientFila\uCM.cpp=D:\ProjetosC\ClientFila\ClientModuleUnit1.cpp</Transaction>
+    <Transaction>2015/11/08 22:08:44.000.093,D:\ProjetosC\ClientFila\uCM.h=D:\ProjetosC\ClientFila\ClientModuleUnit1.h</Transaction>
+    <Transaction>2015/11/08 22:08:44.000.093,D:\ProjetosC\ClientFila\uCM.dfm=D:\ProjetosC\ClientFila\ClientModuleUnit1.dfm</Transaction>
     <Transaction>2015/11/08 22:12:55.000.277,=D:\ProjetosC\projetoTeste\model\TSenha1.cpp</Transaction>
     <Transaction>2015/11/08 22:12:55.000.270,=D:\ProjetosC\projetoTeste\model\TClasseBase1.cpp</Transaction>
+    <Transaction>2015/11/08 22:12:55.000.274,=D:\ProjetosC\projetoTeste\model\TListaGenerica1.cpp</Transaction>
+    <Transaction>2015/11/20 21:15:15.000.410,D:\ProjetosC\ClientFila\uCM.cpp=</Transaction>
+    <Transaction>2015/11/20 21:15:15.000.395,D:\ProjetosC\ClientFila\uCC.cpp=</Transaction>
+    <Transaction>2015/11/20 21:15:50.000.187,=D:\ProjetosC\ClientFila\ClientModuleUnit1.cpp</Transaction>
+    <Transaction>2015/11/20 21:15:50.000.012,=D:\ProjetosC\ClientFila\ClientClassesUnit1.cpp</Transaction>
+    <Transaction>2015/11/20 21:16:00.000.675,D:\ProjetosC\ClientFila\ClientModuleUnit1.cpp=D:\ProjetosC\ClientFila\uCM.cpp</Transaction>
+    <Transaction>2015/11/20 21:16:00.000.675,D:\ProjetosC\ClientFila\ClientModuleUnit1.h=D:\ProjetosC\ClientFila\uCM.h</Transaction>
+    <Transaction>2015/11/20 21:16:00.000.675,D:\ProjetosC\ClientFila\ClientModuleUnit1.dfm=D:\ProjetosC\ClientFila\uCM.dfm</Transaction>
+    <Transaction>2015/11/20 21:16:08.000.917,D:\ProjetosC\ClientFila\ClientClassesUnit1.cpp=D:\ProjetosC\ClientFila\uCC.cpp</Transaction>
+    <Transaction>2015/11/20 21:16:08.000.917,D:\ProjetosC\ClientFila\ClientClassesUnit1.h=D:\ProjetosC\ClientFila\uCC.h</Transaction>
+    <Transaction>2015/11/20 23:54:58.702,D:\ProjetosC\ClientFila\uCC.cpp=</Transaction>
+    <Transaction>2015/11/20 23:54:58.715,D:\ProjetosC\ClientFila\uCM.cpp=</Transaction>
+    <Transaction>2015/11/21 00:28:24.660,=D:\ProjetosC\ClientFila\ClientClassesUnit1.cpp</Transaction>
+    <Transaction>2015/11/21 00:28:24.830,=D:\ProjetosC\ClientFila\ClientModuleUnit1.cpp</Transaction>
+    <Transaction>2015/11/21 00:28:32.472,D:\ProjetosC\ClientFila\uCM.dfm=D:\ProjetosC\ClientFila\ClientModuleUnit1.dfm</Transaction>
+    <Transaction>2015/11/21 00:28:32.472,D:\ProjetosC\ClientFila\uCM.h=D:\ProjetosC\ClientFila\ClientModuleUnit1.h</Transaction>
+    <Transaction>2015/11/21 00:28:32.472,D:\ProjetosC\ClientFila\uCM.cpp=D:\ProjetosC\ClientFila\ClientModuleUnit1.cpp</Transaction>
+    <Transaction>2015/11/21 00:28:39.313,D:\ProjetosC\ClientFila\uCC.h=D:\ProjetosC\ClientFila\ClientClassesUnit1.h</Transaction>
+    <Transaction>2015/11/21 00:28:39.313,D:\ProjetosC\ClientFila\uCC.cpp=D:\ProjetosC\ClientFila\ClientClassesUnit1.cpp</Transaction>
   </Transactions>
 </BorlandProject>
